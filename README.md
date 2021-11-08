@@ -15,7 +15,7 @@ This endpoint  meets the 1st part of the Sample Project.
 The other endpoints to createAccount, withdraw, deposit were not explictly mentioned in the requirement
 but were needed to operate on account and carry on transactions so as to provide meaningful results for the GET calls.
 
-For the ease of verifying the endpoints, a simulation is run executed in PostConstruct 
+For the ease of verifying the endpoints, a simulation is executed in PostConstruct 
 
 http://localhost:8080/api/customers/12345/accounts - Lists all accounts for customer with id - 12345
 
